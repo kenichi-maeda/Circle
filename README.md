@@ -34,6 +34,7 @@ The proof can be outlined as follows:
 1. Align `B1` and `B2` with `A1` and `A2`, respectively.
 <img src="images/Step1.png" style="width:300px; height:auto;" />
 <img src="images/Step2.png" style="width:300px; height:auto;" />
+
 2. Map the remaining points in `B` (`B3`, `B4`, `B5`) to the remaining points in `A` (`A3`, `A4`, `A5`).
 <img src="images/Step3.png" style="width:300px; height:auto;" />
 
